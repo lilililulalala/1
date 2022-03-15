@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\1.1\one\wa\bin\Debug\net6.0\wa.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\1.1\one\wa\bin\Debug\net6.0\wa.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\1.1\one\wa\bin\Debug\net6.0\wa.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\1.1\one\wa\bin\Debug\net6.0\wa.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\1.1\one\wa\bin\Debug\net6.0\wa.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\1.1\one\wa\obj\Debug\net6.0\wa.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\1.1\one\wa\obj\Debug\net6.0\wa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Рабочий стол\1.1\one\wa\obj\Debug\net6.0\wa.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\1.1\one\wa\obj\Debug\net6.0\wa.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\1.1\one\wa\obj\Debug\net6.0\wa.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\1.1\one\wa\obj\Debug\net6.0\wa.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\1.1\one\wa\obj\Debug\net6.0\refint\wa.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\1.1\one\wa\obj\Debug\net6.0\wa.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\1.1\one\wa\obj\Debug\net6.0\wa.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\1.1\one\wa\obj\Debug\net6.0\ref\wa.dll
